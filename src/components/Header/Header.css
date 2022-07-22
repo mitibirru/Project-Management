@@ -1,12 +1,12 @@
 .Header-wrapper {
-  background-color: blue;
+  background-color: #6c5ce7;
   height: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #f5f6fa;
 }
 
 .Header-wrapper h1 {
